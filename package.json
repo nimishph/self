@@ -1,0 +1,30 @@
+{
+  "name": "nimish-ph.tech",
+  "version": "1.0.0",
+  "description": "personal web portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimishph/nimish-ph.tech.git"
+  },
+  "author": "Nimish Phalnikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimishph/nimish-ph.tech/issues"
+  },
+  "homepage": "https://github.com/nimishph/nimish-ph.tech#readme",
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.3",
+    "styled-normalize": "^8.0.7"
+  }
+}
